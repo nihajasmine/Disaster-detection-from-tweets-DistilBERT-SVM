@@ -31,7 +31,7 @@ disaster-tweet-classification/
 ├── data/ # Dataset of collected tweets
 ├── disaster-app/ # Frontend files (React or other UI)
 ├── notebooks/ # Jupyter notebooks for training & evaluation
-├── tweets/ # Sample tweets for visualization
+├── tweets.csv # Sample tweets for visualization
 ├── book1.twbx # Tableau workbook for dashboards
 ├── README.md # Project documentation
 └── .gitignore # Git ignore file
@@ -82,3 +82,4 @@ Both models achieved strong performance (>90% accuracy).
 - **SVM** remains efficient and interpretable, suitable for smaller-scale deployments.  
 
 The system demonstrates how combining preprocessing, ML/DL models, and visualization tools can provide actionable insights into disaster events in real time.
+

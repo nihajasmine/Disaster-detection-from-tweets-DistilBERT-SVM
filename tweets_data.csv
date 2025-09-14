@@ -1,0 +1,52 @@
+tweet,location,date,urgency,disaster,city,state
+Flash floods have submerged vast areas of Leh. Rescue operations are underway.,"Leh, Ladakh",2010-08-06,high,Flood,Leh,Ladakh
+Heavy rains have caused severe flooding in Srinagar. Thousands are stranded.,"Srinagar, Jammu and Kashmir",2014-09-07,high,Flood,Srinagar,Jammu and Kashmir
+"Cyclone Hudhud has made landfall near Visakhapatnam, causing widespread damage.","Visakhapatnam, Andhra Pradesh",2014-10-12,high,Storm,Visakhapatnam,Andhra Pradesh
+Chennai is experiencing unprecedented flooding due to continuous heavy rainfall.,"Chennai, Tamil Nadu",2015-12-01,high,Flood,Chennai,Tamil Nadu
+"Cyclone Vardah has struck Chennai, leading to power outages and uprooted trees.","Chennai, Tamil Nadu",2016-12-12,medium,Storm,Chennai,Tamil Nadu
+Severe flooding in Mumbai has disrupted transportation and daily life.,"Mumbai, Maharashtra",2017-08-29,medium,Flood,Mumbai,Maharashtra
+Kerala is facing its worst floods in a century. Thousands have been displaced.,"Alappuzha, Kerala",2018-08-16,high,Flood,Alappuzha,Kerala
+Cyclone Fani has caused extensive damage in Bhubaneswar. Relief efforts are ongoing.,"Bhubaneswar, Odisha",2019-05-03,high,Storm,Bhubaneswar,Odisha
+Heavy monsoon rains have led to severe flooding in Patna. Residents are seeking shelter.,"Patna, Bihar",2019-09-30,medium,Flood,Patna,Bihar
+Cyclone Amphan has devastated parts of Kolkata. Emergency services are responding.,"Kolkata, West Bengal",2020-05-20,high,Storm,Kolkata,West Bengal
+Hyderabad is experiencing flash floods due to heavy rainfall. Stay indoors and stay safe.,"Hyderabad, Telangana",2020-10-14,medium,Flood,Hyderabad,Telangana
+"Cyclone Nivar has made landfall near Puducherry, bringing heavy rains and strong winds.",Puducherry,2020-11-26,medium,Flood,Puducherry,
+Cyclone Yaas has caused flooding in Balasore. Evacuation efforts are in progress.,"Balasore, Odisha",2021-05-26,high,Flood,Balasore,Odisha
+Heavy rains have led to landslides in Idukki. Rescue teams are on the ground.,"Idukki, Kerala",2021-10-17,high,Flood,Idukki,Kerala
+"Cyclone Tauktae has battered the western coast, causing damage in Mumbai.","Mumbai, Maharashtra",2021-05-17,high,Storm,Mumbai,Maharashtra
+Flash floods in Chamoli have damaged infrastructure. Authorities are assessing the situation.,"Chamoli, Uttarakhand",2021-02-07,high,Flood,Chamoli,Uttarakhand
+Cyclone Gulab has brought heavy rains to Visakhapatnam. Flood warnings issued.,"Visakhapatnam, Andhra Pradesh",2021-09-26,medium,Flood,Visakhapatnam,Andhra Pradesh
+Cyclone Jawad is approaching the Odisha coast. Fishermen advised not to venture out.,"Puri, Odisha",2021-12-04,medium,Storm,Puri,Odisha
+Heavy rainfall has caused waterlogging in Bengaluru. Commuters face difficulties.,"Bengaluru, Karnataka",2022-09-05,low,Flood,Bengaluru,Karnataka
+Cyclone Asani is expected to bring heavy rains to coastal Andhra Pradesh.,"Kakinada, Andhra Pradesh",2022-05-11,medium,Flood,Kakinada,Andhra Pradesh
+Monsoon rains have led to flooding in Guwahati. Residents are urged to stay cautious.,"Guwahati, Assam",2022-06-15,medium,Flood,Guwahati,Assam
+"Cyclone Mandous has made landfall near Chennai, bringing heavy rainfall.","Chennai, Tamil Nadu",2022-12-09,medium,Flood,Chennai,Tamil Nadu
+Flash floods in Sikkim have disrupted normal life. Authorities are monitoring the situation.,"Gangtok, Sikkim",2023-10-04,high,Flood,Gangtok,Sikkim
+Cyclone Biparjoy is intensifying in the Arabian Sea. Coastal areas are on alert.,"Porbandar, Gujarat",2023-06-13,medium,Storm,Porbandar,Gujarat
+Heavy rains have caused landslides in Wayanad. Travel advisories issued.,"Wayanad, Kerala",2023-07-15,medium,Flood,Wayanad,Kerala
+Cyclone Mocha has formed in the Bay of Bengal. Fishermen advised caution.,"Digha, West Bengal",2023-05-12,medium,Storm,Digha,West Bengal
+Monsoon floods have affected several districts in Bihar. Relief camps are being set up.,"Muzaffarpur, Bihar",2023-07-11,high,Flood,Muzaffarpur,Bihar
+Floodwaters from overflowing Brahmaputra have inundated parts of Majuli Island.,"Majuli, Assam",2023-06-25,medium,Flood,Majuli,Assam
+Cyclone Sitrang's outer bands bring rainfall to West Bengal. Some areas report minor flooding.,"Howrah, West Bengal",2022-10-25,low,Flood,Howrah,West Bengal
+Flooding in Nagpur following relentless rains. Emergency teams deployed.,"Nagpur, Maharashtra",2022-08-12,medium,Flood,Nagpur,Maharashtra
+Cyclone Nisarga made landfall near Alibaug with fierce winds and rain.,"Alibaug, Maharashtra",2020-06-03,high,Flood,Alibaug,Maharashtra
+Incessant rains in Silchar have caused waterlogging in several low-lying areas.,"Silchar, Assam",2022-06-21,medium,Flood,Silchar,Assam
+Cyclone Gaja has made landfall near Nagapattinam causing massive damage.,"Nagapattinam, Tamil Nadu",2018-11-16,high,Storm,Nagapattinam,Tamil Nadu
+Flash floods in Mandi after a cloudburst wreak havoc. Rescue efforts initiated.,"Mandi, Himachal Pradesh",2021-07-25,high,Flood,Mandi,Himachal Pradesh
+Landslides due to heavy rains have blocked highways near Aizawl. Avoid travel.,"Aizawl, Mizoram",2023-06-28,medium,Flood,Aizawl,Mizoram
+Cyclone Ockhi has disrupted life in Kanyakumari. High tides and wind reported.,"Kanyakumari, Tamil Nadu",2017-12-01,high,Storm,Kanyakumari,Tamil Nadu
+Cloudburst near Sonamarg has triggered flash floods. Tourists advised caution.,"Sonamarg, Jammu and Kashmir",2022-07-08,high,Flood,Sonamarg,Jammu and Kashmir
+River Ganga crosses danger mark in Varanasi. Local authorities monitor situation closely.,"Varanasi, Uttar Pradesh",2023-08-15,medium,Unknown,Varanasi,Uttar Pradesh
+Cyclone Kyant brought strong winds and moderate rainfall to coastal Andhra towns.,"Machilipatnam, Andhra Pradesh",2016-10-25,low,Flood,Machilipatnam,Andhra Pradesh
+Monsoon flooding disrupts life in Raipur. Traffic and power supply affected.,"Raipur, Chhattisgarh",2021-09-14,medium,Flood,Raipur,Chhattisgarh
+Landslides reported in Darjeeling following continuous rains. Rail services disrupted.,"Darjeeling, West Bengal",2023-06-18,medium,Flood,Darjeeling,West Bengal
+"Cyclone Helen batters the Andhra coast near Ongole, causing power failures.","Ongole, Andhra Pradesh",2013-11-22,high,Storm,Ongole,Andhra Pradesh
+Sambalpur hit by floods as Mahanadi water levels rise sharply.,"Sambalpur, Odisha",2022-08-16,high,Flood,Sambalpur,Odisha
+Flooding in Surat due to Tapi river overflow. Authorities on high alert.,"Surat, Gujarat",2023-07-22,medium,Flood,Surat,Gujarat
+Torrential rains in Imphal cause urban flooding. Drainage systems overwhelmed.,"Imphal, Manipur",2023-06-10,medium,Flood,Imphal,Manipur
+Cyclone Maha weakens but brings heavy showers to coastal Saurashtra region.,"Veraval, Gujarat",2019-11-07,low,Storm,Veraval,Gujarat
+Severe flooding reported in Cuddalore after nonstop rain. Evacuations underway.,"Cuddalore, Tamil Nadu",2015-11-23,high,Flood,Cuddalore,Tamil Nadu
+Cloudburst triggers flash floods near Kedarnath. All yatra suspended temporarily.,"Kedarnath, Uttarakhand",2013-06-16,high,Flood,Kedarnath,Uttarakhand
+Cyclone Titli brings devastation to Gopalpur. Power and communication disrupted.,"Gopalpur, Odisha",2018-10-11,high,Storm,Gopalpur,Odisha
+Heavy rains lash Itanagar leading to landslides and house damage in low-lying areas.,"Itanagar, Arunachal Pradesh",2023-06-24,medium,Flood,Itanagar,Arunachal Pradesh
+Flood alert in Bhopal as Upper Lake water level breaches safe limit after heavy rainfall.,"Bhopal, Madhya Pradesh",2022-09-01,medium,Flood,Bhopal,Madhya Pradesh

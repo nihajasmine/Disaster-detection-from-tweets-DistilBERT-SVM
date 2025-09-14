@@ -1,0 +1,117 @@
+/* General Styling for the App */
+.App {
+  font-family: 'SF Pro Display', sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+/* Container that holds the left and right frames */
+.container {
+  display: flex;
+  height: 100vh;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Left Frame Styling */
+.left-frame {
+  width: 50%;  /* Left frame takes 50% of the screen */
+  padding: 20px;
+  background: linear-gradient(135deg, #E1AA7D, #6A2E35); /* Gradient background */
+  color: white;
+  overflow-y: auto;
+  border-right: 2px solid #000000; /* Subtle border */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.left-frame:hover {
+  transform: scale(1.02);
+}
+
+/* Right Frame Styling */
+.right-frame {
+  width: 50%;  /* Right frame takes 50% of the screen */
+  padding: 20px;
+  background-color: #2E2836;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-left: 2px solid #000000;
+  transition: all 0.3s ease-in-out;
+}
+
+.right-frame:hover {
+  transform: scale(1.02);
+}
+
+/* Header Styling */
+h2 {
+  text-align: center;
+  color: #8c8b8b;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  transition: color 0.3s ease-in-out;
+}
+
+h2:hover {
+  color: #ffffff; /* Change color on hover */
+}
+
+/* Disaster Data Styling */
+#disaster-data {
+  margin-top: 20px;
+  animation: fadeIn 1s ease-in-out;
+  color: black;
+}
+
+.disaster-item {
+  margin-bottom: 15px;
+  padding: 10px;
+  background: #f1f1f1;
+  border-left: 5px solid #ff7043;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease-in-out;
+}
+
+.disaster-item:hover {
+  background: #d6ccc2; /* Hover effect */
+  color: rgb(0, 0, 0);
+}
+
+/* Add a smooth fade-in animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Add animation to the container */
+.container {
+  animation: slideIn 1s ease-in-out;
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Styling for smaller screens (responsive design) */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .left-frame,
+  .right-frame {
+    width: 100%;
+  }
+}

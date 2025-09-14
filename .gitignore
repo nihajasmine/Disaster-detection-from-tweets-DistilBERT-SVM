@@ -1,0 +1,9 @@
+disaster_app/node_modules/
+**/node_modules
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
